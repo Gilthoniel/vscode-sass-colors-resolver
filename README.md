@@ -1,6 +1,6 @@
 # vscode-scss-resolve-colors 
 
-use the native color display for the variables defined as is and provide a completion with the color
+Use the native color display for the variables assigned with a color and provide a completion with the color
 information and example for any available variables in the scope
 
 ## Features
